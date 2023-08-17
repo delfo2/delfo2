@@ -25,21 +25,24 @@ Black Star is a fictional clothing shopping site made as an object of study.
 
 
 ## Knowlegment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" />
-
+<p>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=delfo2&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" height="150">
 <img src="https://github-readme-stats.vercel.app/api?username=delfo2&theme=transparent&bg_color=000&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF" height="150">
+</p>
 
-
+<p>
 <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-
+</p>
+<p>
 <img src="https://skillicons.dev/icons?i=git" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=eclipse" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=github" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=ps" width="25" height="25"/>
+</p>
