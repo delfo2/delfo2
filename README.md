@@ -11,11 +11,11 @@ Black Star is a fictional clothing shopping site made as an object of study.
 <br>
 **You can access by clicking on the images**
 <br>
-...or click on the link: [ Black Star Site](https://black-star.vercel.app/#)
+...or click on the link: [ Black Star Site](https://black-star-delfo2.vercel.app)
 <br>
 ...or see the code: [ Black Star Repository](https://github.com/delfo2/Black-Star)
 <p>
-<a target="_blank" rel="noreferrer noopener" href="https://black-star.vercel.app/#">
+<a target="_blank" rel="noreferrer noopener" href="https://black-star-delfo2.vercel.app">
   <img src="horizontal.png" alt="Black Star site" width="500" height="370" style="object-fit: contain;"/>
   <img src="vertical.png" alt="Black Star site" width="300" height="400" style="object-fit: contain;" />
 </a>
