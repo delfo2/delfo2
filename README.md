@@ -1,6 +1,10 @@
 # Hi, how are you? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25"/>
 
-Highly motivated front-end developer experienced in creating attractive and responsive user interfaces. Deep mastery of HTML, CSS, JavaScript and Typescript.
+Highly motivated Full-Stack developer experienced in creating attractive and responsive user interfaces.
+<br>
+Deep mastery of HTML, CSS, JavaScript, Typescript, NodeJS, Express and Angular.
+<br>
+Solid knowlegment in Databases such as MySQL and PostgreSQL
 
 ## Quick View <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" />
 
@@ -32,17 +36,23 @@ Black Star is a fictional clothing shopping site made as an object of study.
 
 <p>
 <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+</p>
+<p>  
+<img src="https://skillicons.dev/icons?i=nginx" width="35" height="35"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="35" height="35"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/>
+<img src="https://skillicons.dev/icons?i=git" width="35" height="35"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=git" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/>
-<img src="https://skillicons.dev/icons?i=eclipse" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=github" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"/>
+<img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/>
 <img src="https://skillicons.dev/icons?i=ps" width="25" height="25"/>
 </p>
