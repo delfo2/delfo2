@@ -40,6 +40,7 @@ Black Star is a fictional clothing shopping site made as an object of study.
 <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
 </p>
